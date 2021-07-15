@@ -1,6 +1,8 @@
 RENCANA CONTENT A3
 
--Javascrip
+-Javascript
+  *ES6
+  *Framework Javascript
 -PHP Framework-
 -JSON
 -HTML
