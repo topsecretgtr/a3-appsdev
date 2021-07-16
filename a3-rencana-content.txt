@@ -3,6 +3,7 @@ RENCANA CONTENT A3
 -Javascript
   *ES6
   *Framework Javascript
+-Struktur Data Dasar
 -PHP Framework-
 -JSON
 -HTML
