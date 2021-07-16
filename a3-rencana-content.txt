@@ -3,7 +3,10 @@ RENCANA CONTENT A3
 -Javascript
   *ES6
   *Framework Javascript
+   ^Vue
 -Struktur Data Dasar
--PHP Framework-
+-PHP Framework
+  ^ Laravel
 -JSON
 -HTML
+-Python
